@@ -1,7 +1,7 @@
 {
-    "name": "BluWizard's VPM Listing",
+    "name": "BluWizard's VPM Repository",
     "id": "net.bluwizard.vpmlist",
-    "url": "https://bluwizard10.github.io/vpm/index.json",
+    "url": "https://vpm.bluwizard.net/index.json",
     "author": {
         "email": "17975114+BluWizard10@users.noreply.github.com",
         "name": "BluWizard",
