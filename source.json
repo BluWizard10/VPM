@@ -1,19 +1,24 @@
 {
-    "name":"BluWizard's VPM Listing",
-    "id":"com.bluwizard.vpmlist",
-    "url":"https://bluwizard10.github.io/vpm/index.json",
-    "author":{
-        "email":"17975114+BluWizard10@users.noreply.github.com",
-        "name":"BluWizard",
-        "url":"https://github.com/BluWizard10"
+    "name": "BluWizard's VPM Listing",
+    "id": "net.bluwizard.vpmlist",
+    "url": "https://bluwizard10.github.io/vpm/index.json",
+    "author": {
+        "email": "17975114+BluWizard10@users.noreply.github.com",
+        "name": "BluWizard",
+        "url": "https://github.com/BluWizard10"
     },
-    "description":"List of my VPM Repositories",
-    "infoLink":{
-        "url":"http://github.com/bluwizard10/vpm",
-        "text":"View on GitHub"
+    "description": "List of my VPM Repositories",
+    "infoLink": {
+        "url":"http://gitlab.com/bluwizard10",
+        "text":"View on GitLab"
     },
-    "bannerUrl":"BluWizard-VPM-Repo-Banner.png",
-    "githubRepos":[
-        "bluwizard10/blusdk"
+    "bannerUrl": "BluWizard-VPM-Repo-Banner.png",
+    "packages": [
+        {
+            "name": "net.bluwizard.poipresets",
+            "releases": [
+                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v0.9.1/downloads/package"
+            ]
+        }
     ]
 }
