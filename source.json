@@ -17,6 +17,7 @@
         {
             "name": "net.bluwizard.poipresets",
             "releases": [
+                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.1/downloads/package",
                 "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.0/downloads/package"
             ]
         }
