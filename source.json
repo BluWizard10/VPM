@@ -1,5 +1,5 @@
 {
-    "name": "BluWizard LABS VPM Repository",
+    "name": "BluWizard LABS Repository",
     "id": "net.bluwizard.vpmlist",
     "url": "https://vpm.bluwizard.net/index.json",
     "author": {
@@ -9,14 +9,15 @@
     },
     "description": "List of the VPM Repositories fresh from the kitchen!",
     "infoLink": {
-        "url":"http://gitlab.com/bluwizard10",
-        "text":"View on GitLab"
+        "url":"http://github.com/bluwizard10/VPM",
+        "text":"View on GitHub"
     },
     "bannerUrl": "BluWizard-VPM-Repo-Banner.png",
     "packages": [
         {
             "name": "net.bluwizard.poipresets",
             "releases": [
+                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.1.0/net.bluwizard.poipresets-1.1.0.zip",
                 "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.1/downloads/package",
                 "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.0/downloads/package"
             ]
