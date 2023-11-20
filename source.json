@@ -34,6 +34,7 @@
         {
             "name": "net.bluwizard.ui",
             "releases": [
+                "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.2-alpha/net.bluwizard.ui-0.1.2-alpha.zip",
                 "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.1-alpha/net.bluwizard.ui-0.1.1-alpha.zip",
                 "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.0-alpha/net.bluwizard.ui-0.1.0-alpha.zip"
             ]
