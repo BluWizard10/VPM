@@ -45,6 +45,7 @@
         {
             "name": "net.bluwizard.hierarchy",
             "releases": [
+                "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.4.0/net.bluwizard.hierarchy-0.4.0.zip",
                 "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.3.1/net.bluwizard.hierarchy-0.3.1.zip",
                 "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.3.0/net.bluwizard.hierarchy-0.3.0.zip",
                 "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.2.2/net.bluwizard.hierarchy-0.2.2.zip",
