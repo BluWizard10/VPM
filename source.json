@@ -18,6 +18,7 @@
         "BluWizard10/Blu-Hierarchy",
         "BluWizard10/Blu-UI",
         "BluWizard10/dynamic-floor",
-        "BluWizard10/BluSource"
+        "BluWizard10/BluSource",
+        "BluWizard10/udon-scripts"
     ]
 }
