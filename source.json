@@ -19,6 +19,7 @@
         "BluWizard10/Blu-UI",
         "BluWizard10/dynamic-floor",
         "BluWizard10/BluSource",
-        "BluWizard10/udon-scripts"
+        "BluWizard10/udon-scripts",
+        "BluWizard10/Editor-Utilities"
     ]
 }
